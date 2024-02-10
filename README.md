@@ -1,7 +1,7 @@
 # Measures-Of-Central-tendency-from-CSV
 - Performing  following measures of central tenddency on data imported from .csv file
 - Mean
-- Midean
+- Median
 - Mode
 - Range
 - Quartile Range
